@@ -1,8 +1,9 @@
-The Objective of this task is Time Series Classification (Classification of human activities like bending, cycling, walking etc. obtained from a Wireless Sensor Network)
+# Time Series Classification of human activities like bending, cycling, walking etc. 
 
- - The data set and description can be found here - https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29
- - The processed data set used for this task is uploaded (AReM_1 folder)
- - Summary of techniques and algorithms used:
+- Data set obtained from a Wireless Sensor Network and description can be found [here](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29):
+- The processed data set used for this task is uploaded
+
+Summary of techniques and algorithms used:
 
 - Feature Extraction using measures of central tendency
 - Bootstrap to calculate standard deviation estimate for the population parameters
